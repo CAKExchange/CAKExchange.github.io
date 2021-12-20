@@ -156,7 +156,7 @@ p.lead {
 	font-family: "merriweather-light", serif;
 	font-size: 1.8rem;
 	line-height: 1.8;
-	color: #737373;
+	color: #252525;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -733,7 +733,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: rgba(56, 66, 78, 0.5);
+	color: #6a6ead;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
