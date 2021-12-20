@@ -733,7 +733,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #6a6ead;
+	color: ##05bca9;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1462,7 +1462,7 @@ a.menu-toggle {
 	margin-bottom: 1.5rem;
 }
 .process-content h5 {
-	color: #05bca9;
+	color: ##05bca9;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	letter-spacing: .2rem;
@@ -1539,7 +1539,7 @@ a.menu-toggle {
 	color: white;
 }
 #features .section-intro h5 {
-	color: rgba(255, 255, 255, 0.5);
+	color: #05bca9;
 }
 #features .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
